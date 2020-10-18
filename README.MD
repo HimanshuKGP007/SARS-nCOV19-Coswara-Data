@@ -1,4 +1,4 @@
-**Coswara Data **
+**Coswara Data**
 
 This is a repository hosting the Coswara-Data which has been kindly collected and licensed under MIT for free use. 
 
